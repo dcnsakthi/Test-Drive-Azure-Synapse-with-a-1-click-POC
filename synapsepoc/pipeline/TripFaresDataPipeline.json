@@ -477,7 +477,7 @@
 			},
 			"KeyVaultName": {
 				"type": "string",
-				"defaultValue": " kvmsugyafvjs2t26apoc"
+				"defaultValue": "kvmsugyafvjs2t26apoc"
 			},
 			"datalakeAccountName": {
 				"type": "string",
